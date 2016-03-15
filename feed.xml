@@ -7,14 +7,15 @@
     <copyright>Alegria, Inc.</copyright>
     <itunes:subtitle>妄想からビジネスを生み出そう</itunes:subtitle>
     <itunes:author>Joe</itunes:author>
-    <itunes:summary>毎回お題に沿ってビジネスを考え、議論し、妄想しちゃおうというコンセプトの番組です。その他にもスポーツの話題や、海外生活の話、今やっている仕事の話、趣味の話など、>話題盛りだくさんでお送りいたします！</itunes:summary>
+    <itunes:summary>毎回お題に沿ってビジネスを考え、議論し、妄想しちゃおうというコンセプトの番組です。その他にもスポーツの話題や、海外生活の話、今やっている仕事の話、趣味の話など、話題盛りだくさんでお送りいたします！</itunes:summary>
     <description>毎回お題に沿ってビジネスを考え、議論し、妄想しちゃおうというコンセプトの番組です。その他にもスポーツの話題や、海外生活の話、今やっている仕事の話、趣味の話など、話題盛りだくさんでお送りいたします！</description>
     <itunes:owner>
       <itunes:name>Joe</itunes:name>
       <itunes:email>info@alegria-inc.jp</itunes:email>
     </itunes:owner>
     <itunes:image href="http://radio.alegria-inc.jp/artwork.jpg" />
-    <itunes:category text="Business"/>
+    <itunes:category text="Business" />
+    <itunes:explicit text="false" />
     <item>
       <title>#1 - スマホに歯ブラシを刺してみよう</title>
       <itunes:author>Joe</itunes:author>
@@ -25,6 +26,7 @@
       <guid>http://radio.alegria-inc.jp/archive/ep1_160315.mp3</guid>
       <pubDate>Tue, 15 Mar 2016 23:00:00 +0900</pubDate>
       <itunes:duration>35:04</itunes:duration>
+      <itunes:explicit text="false" />
     </item>
   </channel>
 </rss>
